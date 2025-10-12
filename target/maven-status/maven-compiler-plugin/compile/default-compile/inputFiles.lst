@@ -1,0 +1,15 @@
+/Users/apple/shangting-backend/src/main/java/com/example/shangting/dto/LoginRequest.java
+/Users/apple/shangting-backend/src/main/java/com/example/shangting/controller/PropertyController.java
+/Users/apple/shangting-backend/src/main/java/com/example/shangting/repository/PropertyRepository.java
+/Users/apple/shangting-backend/src/main/java/com/example/shangting/ShangtingApplication.java
+/Users/apple/shangting-backend/src/main/java/com/example/shangting/security/JwtAuthenticationFilter.java
+/Users/apple/shangting-backend/src/main/java/com/example/shangting/service/PropertyService.java
+/Users/apple/shangting-backend/src/main/java/com/example/shangting/dto/RegisterRequest.java
+/Users/apple/shangting-backend/src/main/java/com/example/shangting/config/SecurityConfig.java
+/Users/apple/shangting-backend/src/main/java/com/example/shangting/controller/AuthController.java
+/Users/apple/shangting-backend/src/main/java/com/example/shangting/repository/UserRepository.java
+/Users/apple/shangting-backend/src/main/java/com/example/shangting/entity/User.java
+/Users/apple/shangting-backend/src/main/java/com/example/shangting/entity/Property.java
+/Users/apple/shangting-backend/src/main/java/com/example/shangting/dto/ApiResponse.java
+/Users/apple/shangting-backend/src/main/java/com/example/shangting/security/JwtUtil.java
+/Users/apple/shangting-backend/src/main/java/com/example/shangting/service/UserDetailsServiceImpl.java
